@@ -11,6 +11,6 @@ class App < Sinatra::Base
   end
 
   get '/checkout' do
-    
+    params
   end
 end
